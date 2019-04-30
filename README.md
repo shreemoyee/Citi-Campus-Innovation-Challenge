@@ -1,4 +1,4 @@
-# Citi-Innovation-Campus-Challenge
+# Citi-Campus-Innovation-Challenge
 
 ## Problem Statement:
 * Overpayment to a credit card account “could be used as a means to launder money because it provides
